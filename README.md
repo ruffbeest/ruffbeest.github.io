@@ -1,6 +1,6 @@
 # ruffbeest.com
 
-## Legal
+## License
 
-This code is offered under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+This code is offered under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License
 https://creativecommons.org/licenses/by-nc-nd/4.0/
